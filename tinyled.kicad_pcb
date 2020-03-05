@@ -5,7 +5,7 @@
     (drawings 20)
     (tracks 20)
     (zones 0)
-    (modules 54)
+    (modules 62)
     (nets 4)
   )
 
@@ -105,6 +105,354 @@
     (add_net +3V3)
     (add_net GND)
     (add_net "Net-(D1-Pad1)")
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C9B8)
+    (at 8.3439 96.94926 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E60C9B4)
+    (at 8.3312 96.04756 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E60C9B0)
+    (at 10.17016 96.03232 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C9AC)
+    (at 10.17778 96.94164 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E60C998)
+    (at 3.20548 96.02724 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E60C994)
+    (at 1.36652 96.04248 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C990)
+    (at 1.37922 96.94418 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C98C)
+    (at 3.2131 96.93656 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C957)
+    (at -3.79984 96.9391 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C953)
+    (at -5.63372 96.94672 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E60C94F)
+    (at -5.64642 96.04502 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E60C94B)
+    (at -3.80746 96.02978 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C927)
+    (at 10.19556 78.22692 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C923)
+    (at 8.36168 78.23454 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E60C91F)
+    (at 8.34898 77.33284 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E60C91B)
+    (at 10.18794 77.3176 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C907)
+    (at 1.36398 78.232 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C903)
+    (at 3.19786 78.22438 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E60C8FF)
+    (at 1.35128 77.3303 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E60C8FB)
+    (at 3.19024 77.31506 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C8E7)
+    (at -5.63372 78.22692 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C8E3)
+    (at -3.79984 78.2193 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E60C8DF)
+    (at -3.80746 77.30998 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E60C8DB)
+    (at -5.64642 77.32522 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C881)
+    (at -12.61364 78.22692 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E60C87C)
+    (at -10.78738 77.30998 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E60C878)
+    (at -12.62634 77.32522 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C874)
+    (at -10.77976 78.2193 180)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888 180) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  )
+
+  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60C76A)
+    (at -12.74572 93.61424)
+    (attr virtual)
+    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    )
+    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E5FDBED)
@@ -477,92 +825,8 @@
     )
   )
 
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E600435)
-    (at -0.51816 94.50832)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E600431)
-    (at -5.68452 94.49816)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E60042D)
-    (at -7.52348 94.5134)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E600429)
-    (at 6.47192 94.5134)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E600425)
-    (at 7.38632 94.50832)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
   (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E600421)
     (at -12.73302 94.51594)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60041D)
-    (at 0.39624 94.50324)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E600419)
-    (at 8.31088 94.49816)
     (attr virtual)
     (fp_text reference V (at 0 -2) (layer F.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.1524)))
@@ -586,163 +850,7 @@
   )
 
   (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E600411)
-    (at -13.65758 94.5261)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E60040D)
-    (at -6.60908 94.50832)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E600409)
-    (at 1.3208 94.49308)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E6003EC)
-    (at 6.45922 74.9554)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E6003E8)
-    (at 7.37362 74.95032)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E6003E4)
-    (at 8.29818 74.94016)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E6003D4)
-    (at 1.3081 74.93508)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E6003D0)
-    (at -0.53086 74.95032)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E6003CC)
-    (at 0.38354 74.94524)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E6003AC)
-    (at -5.69722 74.94016)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E6003A8)
-    (at -7.53618 74.9554)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E6003A4)
-    (at -6.62178 74.95032)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99DB) (tstamp 5E5DAAF5)
-    (at -12.74572 74.95794)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F998E) (tstamp 5E5DAAED)
-    (at -14.58468 74.97318)
+    (at -14.5796 93.62186)
     (attr virtual)
     (fp_text reference V (at 0 -2) (layer F.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.1524)))
@@ -863,18 +971,6 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-  )
-
-  (module Wickerlib:HOLE-UNPLATED-200MIL (layer F.Cu) (tedit 5E5F99E9) (tstamp 5E5DAA33)
-    (at -13.67028 74.9681)
-    (attr virtual)
-    (fp_text reference V (at 0 -2) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
-    )
-    (fp_text value HOLE-PLATED-200MIL (at -2.1 2.88 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0.94996 1.19888) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
   )
 
   (module Wickerlib:CONN-HEADER-STRAIGHT-P2.54MM-1x01 (layer F.Cu) (tedit 58FF6D5C) (tstamp 5E5F9ECA)
